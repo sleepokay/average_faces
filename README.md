@@ -6,11 +6,11 @@ Though obviously not as rigorous as straight-up statistics, an average face give
 
 The naive average:
 
-![naive average](https://github.com/sleepokay/average_faces/blob/master/misc/testing.png)
+![naive average](https://github.com/sleepokay/average_faces/blob/master/misc/naive-average.png)
 
 The aligned average:
 
-![aligned average](https://github.com/sleepokay/average_faces/blob/master/results/00-average.png)
+![aligned average](https://github.com/sleepokay/average_faces/blob/master/results/aligned-average.png)
 
 
 In the results folder are also averages for each "batch" of Recursers.
