@@ -6,7 +6,7 @@ Though obviously not as rigorous as straight-up statistics, an average face give
 
 The naive average:
 
-![naive average](https://github.com/sleepokay/average_faces/blob/master/misc/naive-average.png)
+![naive average](https://github.com/sleepokay/average_faces/blob/master/misc/simple-average.png)
 
 The aligned average:
 
