@@ -5,9 +5,11 @@ I was interested in averaging the profile photos of participants at the [Recurse
 Though obviously not as rigorous as straight-up statistics, an average face gives an immediate, intuitive impression of the demographic representation of a group. One of the primary goals of the Recurse Center is to foster a diverse programming community, especially for women and people of color. As the average face shows, there is probably more work to do in that regard.
 
 The naive average:
+
 ![naive average](https://github.com/sleepokay/average_faces/blob/master/misc/testing.png)
 
 The aligned average:
+
 ![aligned average](https://github.com/sleepokay/average_faces/blob/master/results/00-average.png)
 
 
