@@ -10,7 +10,7 @@ The naive average:
 
 The aligned average:
 
-![aligned average](https://github.com/sleepokay/average_faces/blob/master/results/aligned-average.png)
+![aligned average](https://github.com/sleepokay/average_faces/blob/master/misc/aligned-average.png)
 
 
 In the results folder are also averages for each "batch" of Recursers.
